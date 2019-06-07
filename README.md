@@ -1,2 +1,2 @@
 # AspNetCorePelisPe
-Proyecto Integrador del PAE Data Science - DMC
+Proyecto Integrador del PEA Data Science - DMC
